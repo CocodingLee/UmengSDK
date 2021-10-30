@@ -1,0 +1,5 @@
+framework module UMAPM {
+      umbrella header "UMAPM.h"
+      export *
+      link "sqlite3.0"
+    }

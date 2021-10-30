@@ -1,0 +1,5 @@
+framework module UMCommon {
+      umbrella header "UMCommon.h"
+      export *
+      link "sqlite3.0"
+    }
